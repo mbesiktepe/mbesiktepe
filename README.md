@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm Mert Beşiktepe
 
-<!--
-**mbesiktepe/mbesiktepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Operations Manager with a strong focus on cybersecurity, endpoint management and infrastructure hardening.
 
-Here are some ideas to get you started:
+I build practical tools that solve real-world IT and security problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔐 What I Do
+
+- Endpoint security & patch management
+- IT operations automation
+- Vulnerability awareness & risk reduction
+- Infrastructure monitoring
+- Compliance-driven system improvements
+
+---
+
+## 🚀 Featured Project
+
+### 🛡️ CyberPatch
+
+A centralized patch management and monitoring platform for Windows endpoints.
+
+**Architecture:**
+- FastAPI backend
+- Lightweight Windows agent
+- Web dashboard
+- Role-based access control
+- SQLite database
+
+**Core Features:**
+- Automated patch scanning
+- Centralized device visibility
+- Remote patch deployment
+- Security-focused reporting
+
+> Designed to simplify and secure Windows endpoint management.
+
+---
+
+## 🧠 Technical Interests
+
+- Endpoint security
+- Patch management systems
+- Automation scripting
+- Risk-based vulnerability prioritization
+- Secure infrastructure design
+
+---
+
+## 🛠️ Tech Stack
+
+- Python (FastAPI)
+- Windows Endpoint Management
+- REST APIs
+- SQLite
+- IT Operations Tooling
+
+---
+
+## 📊 Current Focus
+
+Building security-aware operational tools that bridge the gap between IT operations and cybersecurity.
+
+---
+
+## 📫 Contact
+
+Feel free to connect or collaborate on security-focused tooling and automation projects.
